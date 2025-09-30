@@ -1,0 +1,15 @@
+.p-div{border: 2px solid rgb(253, 215, 0); 
+margin-left: 10px;
+background-color: rgb(104, 104, 104);
+height: 200px;}
+
+.btn-1{width: 63px;
+height: 30px;}
+
+.all-btn{margin-top: 63px;
+width: 300px;}
+
+
+.btn-1:hover{background-color: rgb(177, 177, 177);
+    border-radius: 20 px;
+color: white;}
